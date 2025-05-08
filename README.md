@@ -36,7 +36,7 @@ Welcome to the House Cleaners App, a Flutter-based mobile application designed t
 - **Backend**: Firebase (Auth, Firestore, Storage)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/house-cleaners-app.git`
+1. Clone the repository: `git clone https://github.com/DPramuditha/Hire-House-Cleaners-App.git`
 2. Navigate to the project directory: `cd house-cleaners-app`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
